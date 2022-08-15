@@ -8,20 +8,6 @@ It is fully peer-to-peer and works without any centrally managed servers. It can
 
 Such approach enables the wallet to operate anywhere and remain censorship-resistant. Only the user is in control of the money.
 
-More at [https://unstoppable.money](https://unstoppable.money)
-
-## Download
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/io.horizontalsystems.bankwallet/)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet)
-
-## Source Code
-
-[https://github.com/horizontalsystems/unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android)
 
 ## License
 
